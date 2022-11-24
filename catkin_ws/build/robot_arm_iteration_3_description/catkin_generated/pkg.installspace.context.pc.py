@@ -4,5 +4,5 @@ PROJECT_PKG_CONFIG_INCLUDE_DIRS = "".split(';') if "" != "" else []
 PROJECT_CATKIN_DEPENDS = "".replace(';', ' ')
 PKG_CONFIG_LIBRARIES_WITH_PREFIX = "".split(';') if "" != "" else []
 PROJECT_NAME = "robot_arm_iteration_3_description"
-PROJECT_SPACE_DIR = "/home/vamsy/Desktop/roboticarm/robotic_arm-main/catkin_ws/install"
+PROJECT_SPACE_DIR = "/home/vamsy/Desktop/roboticarm/manipulator-flask/catkin_ws/install"
 PROJECT_VERSION = "0.0.0"

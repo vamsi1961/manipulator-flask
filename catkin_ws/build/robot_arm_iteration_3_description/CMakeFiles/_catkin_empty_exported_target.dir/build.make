@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/vamsy/Desktop/roboticarm/robotic_arm-main/catkin_ws/src
+CMAKE_SOURCE_DIR = /home/vamsy/Desktop/roboticarm/manipulator-flask/catkin_ws/src
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/vamsy/Desktop/roboticarm/robotic_arm-main/catkin_ws/build
+CMAKE_BINARY_DIR = /home/vamsy/Desktop/roboticarm/manipulator-flask/catkin_ws/build
 
 # Utility rule file for _catkin_empty_exported_target.
 
@@ -63,10 +63,10 @@ robot_arm_iteration_3_description/CMakeFiles/_catkin_empty_exported_target.dir/b
 .PHONY : robot_arm_iteration_3_description/CMakeFiles/_catkin_empty_exported_target.dir/build
 
 robot_arm_iteration_3_description/CMakeFiles/_catkin_empty_exported_target.dir/clean:
-	cd /home/vamsy/Desktop/roboticarm/robotic_arm-main/catkin_ws/build/robot_arm_iteration_3_description && $(CMAKE_COMMAND) -P CMakeFiles/_catkin_empty_exported_target.dir/cmake_clean.cmake
+	cd /home/vamsy/Desktop/roboticarm/manipulator-flask/catkin_ws/build/robot_arm_iteration_3_description && $(CMAKE_COMMAND) -P CMakeFiles/_catkin_empty_exported_target.dir/cmake_clean.cmake
 .PHONY : robot_arm_iteration_3_description/CMakeFiles/_catkin_empty_exported_target.dir/clean
 
 robot_arm_iteration_3_description/CMakeFiles/_catkin_empty_exported_target.dir/depend:
-	cd /home/vamsy/Desktop/roboticarm/robotic_arm-main/catkin_ws/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/vamsy/Desktop/roboticarm/robotic_arm-main/catkin_ws/src /home/vamsy/Desktop/roboticarm/robotic_arm-main/catkin_ws/src/robot_arm_iteration_3_description /home/vamsy/Desktop/roboticarm/robotic_arm-main/catkin_ws/build /home/vamsy/Desktop/roboticarm/robotic_arm-main/catkin_ws/build/robot_arm_iteration_3_description /home/vamsy/Desktop/roboticarm/robotic_arm-main/catkin_ws/build/robot_arm_iteration_3_description/CMakeFiles/_catkin_empty_exported_target.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/vamsy/Desktop/roboticarm/manipulator-flask/catkin_ws/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/vamsy/Desktop/roboticarm/manipulator-flask/catkin_ws/src /home/vamsy/Desktop/roboticarm/manipulator-flask/catkin_ws/src/robot_arm_iteration_3_description /home/vamsy/Desktop/roboticarm/manipulator-flask/catkin_ws/build /home/vamsy/Desktop/roboticarm/manipulator-flask/catkin_ws/build/robot_arm_iteration_3_description /home/vamsy/Desktop/roboticarm/manipulator-flask/catkin_ws/build/robot_arm_iteration_3_description/CMakeFiles/_catkin_empty_exported_target.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : robot_arm_iteration_3_description/CMakeFiles/_catkin_empty_exported_target.dir/depend
 

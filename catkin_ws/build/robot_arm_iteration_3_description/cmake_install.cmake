@@ -1,8 +1,8 @@
-# Install script for directory: /home/vamsy/Desktop/roboticarm/robotic_arm-main/catkin_ws/src/robot_arm_iteration_3_description
+# Install script for directory: /home/vamsy/Desktop/roboticarm/manipulator-flask/catkin_ws/src/robot_arm_iteration_3_description
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "/home/vamsy/Desktop/roboticarm/robotic_arm-main/catkin_ws/install")
+  set(CMAKE_INSTALL_PREFIX "/home/vamsy/Desktop/roboticarm/manipulator-flask/catkin_ws/install")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -38,17 +38,17 @@ if(NOT DEFINED CMAKE_CROSSCOMPILING)
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/pkgconfig" TYPE FILE FILES "/home/vamsy/Desktop/roboticarm/robotic_arm-main/catkin_ws/build/robot_arm_iteration_3_description/catkin_generated/installspace/robot_arm_iteration_3_description.pc")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/pkgconfig" TYPE FILE FILES "/home/vamsy/Desktop/roboticarm/manipulator-flask/catkin_ws/build/robot_arm_iteration_3_description/catkin_generated/installspace/robot_arm_iteration_3_description.pc")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/robot_arm_iteration_3_description/cmake" TYPE FILE FILES
-    "/home/vamsy/Desktop/roboticarm/robotic_arm-main/catkin_ws/build/robot_arm_iteration_3_description/catkin_generated/installspace/robot_arm_iteration_3_descriptionConfig.cmake"
-    "/home/vamsy/Desktop/roboticarm/robotic_arm-main/catkin_ws/build/robot_arm_iteration_3_description/catkin_generated/installspace/robot_arm_iteration_3_descriptionConfig-version.cmake"
+    "/home/vamsy/Desktop/roboticarm/manipulator-flask/catkin_ws/build/robot_arm_iteration_3_description/catkin_generated/installspace/robot_arm_iteration_3_descriptionConfig.cmake"
+    "/home/vamsy/Desktop/roboticarm/manipulator-flask/catkin_ws/build/robot_arm_iteration_3_description/catkin_generated/installspace/robot_arm_iteration_3_descriptionConfig-version.cmake"
     )
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/robot_arm_iteration_3_description" TYPE FILE FILES "/home/vamsy/Desktop/roboticarm/robotic_arm-main/catkin_ws/src/robot_arm_iteration_3_description/package.xml")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/robot_arm_iteration_3_description" TYPE FILE FILES "/home/vamsy/Desktop/roboticarm/manipulator-flask/catkin_ws/src/robot_arm_iteration_3_description/package.xml")
 endif()
 

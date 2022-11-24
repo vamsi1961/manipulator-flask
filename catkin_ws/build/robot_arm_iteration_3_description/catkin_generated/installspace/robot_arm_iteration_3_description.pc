@@ -1,4 +1,4 @@
-prefix=/home/vamsy/Desktop/roboticarm/robotic_arm-main/catkin_ws/install
+prefix=/home/vamsy/Desktop/roboticarm/manipulator-flask/catkin_ws/install
 
 Name: robot_arm_iteration_3_description
 Description: Description of robot_arm_iteration_3_description

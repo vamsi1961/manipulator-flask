@@ -1,4 +1,4 @@
-prefix=/home/vamsy/Desktop/roboticarm/robotic_arm-main/catkin_ws/install
+prefix=/home/vamsy/Desktop/roboticarm/manipulator-flask/catkin_ws/install
 
 Name: robot_control
 Description: Description of robot_control

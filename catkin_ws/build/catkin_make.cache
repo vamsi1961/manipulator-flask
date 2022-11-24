@@ -1,2 +1,2 @@
 robot_arm_iteration_3_description:robot_control
--DCATKIN_DEVEL_PREFIX=/home/vamsy/Desktop/roboticarm/robotic_arm-main/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/vamsy/Desktop/roboticarm/robotic_arm-main/catkin_ws/install -G Unix Makefiles
+-DCATKIN_DEVEL_PREFIX=/home/vamsy/Desktop/roboticarm/manipulator-flask/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/vamsy/Desktop/roboticarm/manipulator-flask/catkin_ws/install -G Unix Makefiles
