@@ -3,6 +3,10 @@
 
 <xacro:property name="body_color" value="Gazebo/Silver" />
 
+
+
+
+
 <gazebo>
   <plugin filename="libgazebo_ros_control.so" name="gazebo_ros_control">
   <robotNamespace>/robot_arm_iteration_3</robotNamespace>
